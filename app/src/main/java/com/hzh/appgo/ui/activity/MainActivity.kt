@@ -1,8 +1,8 @@
-package com.hzh.appgo
+package com.hzh.appgo.ui.activity
 
-import android.databinding.DataBindingUtil
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.hzh.appgo.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

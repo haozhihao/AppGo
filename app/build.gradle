@@ -29,7 +29,7 @@ android {
 
 dependencies {
 //    implementation fileTree(include: ['*.jar'], dir: 'libs')
-    implementation(Dep.kotlinStdlibJdk7)
+//    implementation(Dep.kotlinStdlibJdk7)
     implementation(Dep.appcompat)
     implementation(Dep.constraintLayout)
     testImplementation(Dep.junit)
