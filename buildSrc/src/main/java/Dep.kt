@@ -1,11 +1,11 @@
 object Dep {
     object Version {
-        const val kotlin = "1.3.11"
+        const val kotlin = "1.3.72"
         const val constraintLayout = "2.0.0-alpha2"
         const val androidX = "1.0.0"
         // library (test)
         const val junit = "4.12"
-        const val buildGradle = "3.5.0"
+        const val buildGradle = "4.1.1"
 
         const val lifecycle= "2.1.0"
     }
